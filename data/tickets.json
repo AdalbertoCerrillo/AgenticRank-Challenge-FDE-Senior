@@ -1,0 +1,529 @@
+[
+  {
+    "id": "T-1001",
+    "subject": "Reset password link not working",
+    "body": "Hi, I clicked the reset password link in my email but it says the link expired. Can you send a new one?\n\n--\nSent from my iPhone",
+    "customer_id": "C-3312",
+    "customer_email": "rachel.k@example.com",
+    "created_at": "2026-06-14T08:22:00Z",
+    "channel": "email",
+    "status": "open"
+  },
+  {
+    "id": "T-1002",
+    "subject": "STORE IS DOWN DURING OUR SALE - losing money by the minute",
+    "body": "<div>This is the third time I am writing. Our storefront has been completely down since this morning and we are in the middle of our biggest flash sale of the year. Customers cannot check out at all. We are losing thousands of dollars every hour this continues.</div><div>&nbsp;</div><div>If this is not fixed today we will be moving to another provider. I need someone on this NOW.</div>",
+    "customer_id": "C-8890",
+    "customer_email": "ops@brightlystore.com",
+    "created_at": "2026-06-14T09:05:00Z",
+    "channel": "email",
+    "status": "open"
+  },
+  {
+    "id": "T-1003",
+    "subject": "Where is my order?",
+    "body": "Order #48812 was supposed to arrive two days ago and the tracking hasn't updated. Can you check?",
+    "customer_id": "C-1120",
+    "customer_email": "dmoore88@example.com",
+    "created_at": "2026-06-14T10:11:00Z",
+    "channel": "chat",
+    "status": "open"
+  },
+  {
+    "id": "T-1004",
+    "subject": null,
+    "body": "how do i change the email address on my account",
+    "customer_id": "C-4521",
+    "customer_email": "tinab@example.com",
+    "created_at": "2026-06-14T10:47:00Z",
+    "channel": "web",
+    "status": "open"
+  },
+  {
+    "id": "T-1005",
+    "subject": "Refund status?",
+    "body": "I returned a jacket last week (RMA-2231) and haven't seen the refund yet. When should I expect it?\n\nThanks,\nGreg",
+    "customer_id": "C-7781",
+    "customer_email": "greg.n@example.com",
+    "created_at": "2026-06-14T11:30:00Z",
+    "channel": "email",
+    "status": "open"
+  },
+  {
+    "id": "T-1006",
+    "subject": "No puedo iniciar sesión",
+    "body": "Hola, llevo dos días intentando entrar a mi cuenta y me dice que la contraseña es incorrecta, aunque estoy segura de que es la correcta. Ya intenté restablecerla pero no me llega el correo. ¿Me pueden ayudar?",
+    "customer_id": "C-2093",
+    "customer_email": "lucia.fernandez@example.com",
+    "created_at": "2026-06-14T12:02:00Z",
+    "channel": "email",
+    "status": "open"
+  },
+  {
+    "id": "T-1007",
+    "subject": "Question about product materials",
+    "body": "Is the weekender bag made from real leather or vegan leather? The product page isn't clear.",
+    "customer_id": "C-5540",
+    "customer_email": "pat.rivera@example.com",
+    "created_at": "2026-06-14T12:40:00Z",
+    "channel": "web",
+    "status": "open"
+  },
+  {
+    "id": "T-1008",
+    "subject": "Cancel my order please",
+    "body": "-----Original Message-----\nFrom: sam@example.com\nSent: Saturday\nTo: support\nSubject: Cancel my order please\n\nI ordered the wrong size, order #49001. Please cancel it before it ships.",
+    "customer_id": "C-6612",
+    "customer_email": "sam@example.com",
+    "created_at": "2026-06-14T13:15:00Z",
+    "channel": "email",
+    "status": "open"
+  },
+  {
+    "id": "T-1009",
+    "subject": "Discount code STUDENT10 not applying",
+    "body": "The STUDENT10 code won't apply at checkout, it just says invalid. Am I doing something wrong?",
+    "customer_id": "C-3391",
+    "customer_email": "megan.d@example.com",
+    "created_at": "2026-06-14T13:52:00Z",
+    "channel": "chat",
+    "status": "open"
+  },
+  {
+    "id": "T-1009",
+    "subject": "Discount code STUDENT10 not applying",
+    "body": "The STUDENT10 code won't apply at checkout, it just says invalid. Am I doing something wrong?",
+    "customer_id": "C-3391",
+    "customer_email": "megan.d@example.com",
+    "created_at": "2026-06-14T13:52:00Z",
+    "channel": "chat",
+    "status": "open"
+  },
+  {
+    "id": "T-1010",
+    "subject": "Update shipping address",
+    "body": "<p>Hi there,</p><p>I need to update the shipping address on order #49110 to my new place before it goes out. New address is 55 Alder St, Apt 4.</p><p>Thanks!</p>",
+    "customer_id": "C-2245",
+    "customer_email": "jordan.lee@example.com",
+    "created_at": "2026-06-14T14:20:00Z",
+    "channel": "email",
+    "status": "open"
+  },
+  {
+    "id": "T-1011",
+    "subject": "Newsletter unsubscribe",
+    "body": "Please take me off your marketing emails. I keep getting 3 a day.",
+    "customer_email": "noreply.user@example.com",
+    "created_at": "2026-06-14T14:55:00Z",
+    "channel": "email",
+    "status": "open"
+  },
+  {
+    "id": "T-1012",
+    "subject": "Mi pedido llegó dañado",
+    "body": "Buenas tardes. Recibí mi pedido #48755 hoy pero la caja estaba aplastada y el producto adentro está roto. Adjunto fotos. ¿Cómo procedo para un reemplazo?\n\nSaludos,\nCarlos",
+    "customer_id": "C-4408",
+    "customer_email": "carlos.mendez@example.com",
+    "created_at": "2026-06-14T15:33:00Z",
+    "channel": "email",
+    "status": "open"
+  },
+  {
+    "id": "T-1013",
+    "subject": "Double charged on my card",
+    "body": "I was charged twice for order #49040. There are two identical charges of $128.40 on my statement. Please refund the duplicate as soon as possible, this put my account into overdraft.",
+    "customer_id": "C-7702",
+    "customer_email": "n.abbott@example.com",
+    "created_at": "2026-06-14T15:58:00Z",
+    "channel": "email",
+    "status": "open"
+  },
+  {
+    "id": "T-1014",
+    "subject": "How do I track my order",
+    "body": "hi where do i find the tracking number for my order",
+    "customer_id": "C-1195",
+    "customer_email": "kev.p@example.com",
+    "created_at": "2026-06-14T16:10:00Z",
+    "channel": "chat",
+    "status": "open"
+  },
+  {
+    "id": "T-1015",
+    "subject": "Item missing from delivery",
+    "body": "My order #48980 arrived but one of the three items is missing. I got the socks and the hat but not the jacket. Invoice says all three shipped.",
+    "customer_id": "C-3302",
+    "customer_email": "harper.q@example.com",
+    "created_at": "2026-06-14T16:44:00Z",
+    "channel": "email",
+    "status": "open"
+  },
+  {
+    "id": "T-1016",
+    "subject": "Someone logged into my account that wasn't me",
+    "body": "I got an email saying my password was changed but I did not change it. Now I can't log in and I'm worried someone has access to my saved cards. Please lock my account.",
+    "customer_id": "C-9910",
+    "customer_email": "t.whitfield@example.com",
+    "created_at": "2026-06-14T17:01:00Z",
+    "channel": "email",
+    "status": "open"
+  },
+  {
+    "id": "T-1017",
+    "subject": "Re: Re: Fwd: order",
+    "body": "",
+    "customer_id": "C-5567",
+    "customer_email": "blank.sender@example.com",
+    "created_at": "2026-06-14T17:20:00Z",
+    "channel": "email",
+    "status": "open"
+  },
+  {
+    "id": "T-1018",
+    "subject": "Gift wrapping option?",
+    "body": "Do you offer gift wrapping? I'd like to send an order directly to a friend for their birthday.",
+    "customer_id": "C-2218",
+    "customer_email": "wendy.s@example.com",
+    "created_at": "2026-06-14T18:00:00Z",
+    "channel": "web",
+    "status": "open"
+  },
+  {
+    "id": "T-1019",
+    "subject": "Não consigo finalizar a compra",
+    "body": "Olá, estou tentando finalizar minha compra há uma hora mas toda vez que clico em pagar aparece um erro e a página recarrega. Já tentei em dois navegadores. Podem verificar?",
+    "customer_id": "C-6031",
+    "customer_email": "bruno.almeida@example.com",
+    "created_at": "2026-06-14T18:35:00Z",
+    "channel": "web",
+    "status": "open"
+  },
+  {
+    "id": "T-1020",
+    "subject": "Loyalty points not showing",
+    "body": "I made a purchase last week but my loyalty points balance hasn't gone up. Order #48901.",
+    "customer_id": "C-4490",
+    "customer_email": "irene.v@example.com",
+    "created_at": "2026-06-15T08:05:00Z",
+    "channel": "chat",
+    "status": "open"
+  },
+  {
+    "id": "T-1021",
+    "subject": "URGENT: none of my customers can pay",
+    "body": "We run our whole shop through you and checkout has been throwing a payment error for every single customer since about 30 minutes ago. This is not one order, it's all of them. We are bleeding sales. Please escalate immediately.",
+    "customer_id": "C-8890",
+    "customer_email": "ops@brightlystore.com",
+    "created_at": "2026-06-15T08:40:00Z",
+    "channel": "email",
+    "status": "open"
+  },
+  {
+    "id": "T-1022",
+    "body": "can you tell me your return policy, thinking of buying but want to know if i can return",
+    "customer_email": "curious.buyer@example.com",
+    "created_at": "2026-06-15T09:12:00Z",
+    "channel": "web",
+    "status": "open"
+  },
+  {
+    "id": "T-1023",
+    "subject": "Wrong item received",
+    "body": "<div dir=\"ltr\">Ordered a blue medium sweater, received a red large. Order #49055. How do I swap it?</div><div dir=\"ltr\"><br></div><div dir=\"ltr\">-- <br>Jamie</div>",
+    "customer_id": "C-3140",
+    "customer_email": "jamie.o@example.com",
+    "created_at": "2026-06-15T09:50:00Z",
+    "channel": "email",
+    "status": "open"
+  },
+  {
+    "id": "T-1024",
+    "subject": "Change delivery date",
+    "body": "Is it possible to delay delivery of order #49120 until next week? I'll be traveling.",
+    "customer_id": "C-2276",
+    "customer_email": "olga.m@example.com",
+    "created_at": "2026-06-15T10:22:00Z",
+    "channel": "chat",
+    "status": "open"
+  },
+  {
+    "id": "T-1025",
+    "subject": "Fraud alert on my account",
+    "body": "There are three orders on my account from today that I did NOT place, shipping to an address I don't recognize. Someone has clearly gotten into my account. Cancel them and lock everything down now please.",
+    "customer_id": "C-7355",
+    "customer_email": "derek.h@example.com",
+    "created_at": "2026-06-15T10:45:00Z",
+    "channel": "email",
+    "status": "open"
+  },
+  {
+    "id": "T-1026",
+    "subject": "Do you ship internationally",
+    "body": "Hi! Do you ship to Canada, and roughly how long does it take?",
+    "customer_id": "C-5589",
+    "customer_email": "amy.chen@example.com",
+    "created_at": "2026-06-15T11:03:00Z",
+    "channel": "web",
+    "status": "open"
+  },
+  {
+    "id": "T-1027",
+    "subject": "¿Cómo cambio mi dirección de envío?",
+    "body": "Hola, hice un pedido (#49133) pero puse mal el número de mi casa. ¿Puedo corregir la dirección antes de que lo envíen? Gracias.",
+    "customer_id": "C-4012",
+    "customer_email": "sofia.ramos@example.com",
+    "created_at": "2026-06-15T11:40:00Z",
+    "channel": "email",
+    "status": "open"
+  },
+  {
+    "id": "T-1028",
+    "subject": "App keeps crashing",
+    "body": "Every time I open the orders tab in your mobile app it crashes. iPhone 14, latest app version. Been happening for two days.",
+    "customer_id": "C-6690",
+    "customer_email": "leo.t@example.com",
+    "created_at": "2026-06-15T12:15:00Z",
+    "channel": "chat",
+    "status": "open"
+  },
+  {
+    "id": "T-1029",
+    "subject": "Invoice for accounting",
+    "body": "Could you send a proper VAT invoice for order #48877? Our accountant needs it for the books.",
+    "customer_id": "C-3388",
+    "customer_email": "billing@nordicdesk.com",
+    "created_at": "2026-06-15T12:50:00Z",
+    "channel": "email",
+    "status": "open"
+  },
+  {
+    "id": "T-1030",
+    "subject": "Coupon expired too early",
+    "body": "Your email said the SUMMER20 code was valid through the 20th but it stopped working on the 14th. Can you honor it? I have the email.",
+    "customer_id": "C-2201",
+    "customer_email": "faith.u@example.com",
+    "created_at": "2026-06-15T13:25:00Z",
+    "channel": "email",
+    "status": "open"
+  },
+  {
+    "id": "T-1002",
+    "subject": "RE: STORE IS DOWN DURING OUR SALE - still no response",
+    "body": "Reopening this. It has been hours and no one has replied. The store is STILL down. This is completely unacceptable. We are actively evaluating other providers as I type this.\n\n> On Jun 14 you wrote:\n> This is the third time I am writing...",
+    "customer_id": "C-8890",
+    "customer_email": "ops@brightlystore.com",
+    "created_at": "2026-06-15T13:40:00Z",
+    "channel": "email",
+    "status": "reopened"
+  },
+  {
+    "id": "T-1031",
+    "subject": "Size exchange",
+    "body": "Need to exchange a medium for a large, order #49061. Same style, just bigger. What's the process?",
+    "customer_id": "C-5512",
+    "customer_email": "ravi.n@example.com",
+    "created_at": "2026-06-15T14:10:00Z",
+    "channel": "web",
+    "status": "open"
+  },
+  {
+    "id": "T-1032",
+    "subject": "Payment failed but money taken",
+    "body": "Checkout said my payment failed so I tried again, but now I see TWO pending charges on my bank and no order confirmation for either. Did my order go through or not? I need to know before I get charged twice.",
+    "customer_id": "C-7013",
+    "customer_email": "priya.s@example.com",
+    "created_at": "2026-06-15T14:35:00Z",
+    "channel": "email",
+    "status": "open"
+  },
+  {
+    "id": "T-1033",
+    "subject": null,
+    "body": "just wanted to say the new packaging is really nice, thanks!",
+    "customer_id": "C-3325",
+    "customer_email": "happy.customer@example.com",
+    "created_at": "2026-06-15T15:00:00Z",
+    "channel": "web",
+    "status": "open"
+  },
+  {
+    "id": "T-1034",
+    "subject": "Where is my refund, been 3 weeks",
+    "body": "I was told my refund for order #48600 would take 5-7 business days. It has been three weeks. This is the second time I'm asking. Where is my money?",
+    "customer_id": "C-6644",
+    "customer_email": "mark.e@example.com",
+    "created_at": "2026-06-15T15:30:00Z",
+    "channel": "email",
+    "status": "open"
+  },
+  {
+    "id": "T-1035",
+    "subject": "Quero cancelar minha assinatura",
+    "body": "Boa tarde, gostaria de cancelar minha assinatura mensal. Não estou mais usando o serviço e não quero ser cobrado no próximo mês. Obrigada.",
+    "customer_id": "C-4477",
+    "customer_email": "ana.souza@example.com",
+    "created_at": "2026-06-15T16:05:00Z",
+    "channel": "email",
+    "status": "open"
+  },
+  {
+    "id": "T-1036",
+    "subject": "Product recommendation",
+    "body": "Which of your backpacks is best for a 15 inch laptop? Just want something durable for commuting.",
+    "customer_id": "C-2290",
+    "customer_email": "chris.b@example.com",
+    "created_at": "2026-06-15T16:40:00Z",
+    "channel": "chat",
+    "status": "open"
+  },
+  {
+    "id": "T-1037",
+    "subject": "Account locked",
+    "body": "I tried logging in a few times and now it says my account is locked for security. I just forgot my password, I'm not a hacker! How do I unlock it?",
+    "customer_id": "C-5503",
+    "customer_email": "dana.f@example.com",
+    "created_at": "2026-06-15T17:12:00Z",
+    "channel": "web",
+    "status": "open"
+  },
+  {
+    "id": "T-1038",
+    "subject": "Bulk order question",
+    "body": "We're a corporate gifting company and want to place an order for 200 units of the travel mug. Do you offer bulk pricing and can you meet a 2 week deadline?",
+    "customer_id": "C-8123",
+    "customer_email": "procurement@giftlyco.com",
+    "created_at": "2026-06-15T17:45:00Z",
+    "channel": "email",
+    "status": "open"
+  },
+  {
+    "id": "T-1039",
+    "subject": "Damaged on arrival",
+    "body": "<div>Box arrived soaked and the contents are ruined. Order #49022.</div><div><br></div><div>Sent from Mail for Windows</div>",
+    "customer_id": null,
+    "customer_email": "unknown.buyer@example.com",
+    "created_at": "2026-06-15T18:20:00Z",
+    "channel": "email",
+    "status": "open"
+  },
+  {
+    "id": "T-1040",
+    "subject": "How to redeem gift card",
+    "body": "I got a $50 gift card. Where do I enter the code at checkout?",
+    "customer_id": "C-3377",
+    "customer_email": "nadia.k@example.com",
+    "created_at": "2026-06-15T18:55:00Z",
+    "channel": "chat",
+    "status": "open"
+  },
+  {
+    "id": "T-1041",
+    "subject": "We are cancelling our contract",
+    "body": "This is a formal notice from Harborline Retail. Between the outage last week, the billing errors, and slow support, we have lost confidence in the platform. Unless we get a call from an account manager this week, we intend to terminate our annual contract and migrate off. This is our largest channel and we cannot keep operating like this.",
+    "customer_id": "C-9001",
+    "customer_email": "cto@harborline.com",
+    "created_at": "2026-06-15T19:30:00Z",
+    "channel": "email",
+    "status": "open"
+  },
+  {
+    "id": "T-1042",
+    "subject": "Me cobraron dos veces",
+    "body": "Hola, revisé mi tarjeta y me cobraron dos veces por el mismo pedido (#49088). Son dos cargos de $74.90. Necesito que me devuelvan uno lo antes posible por favor, esto me dejó sin saldo.",
+    "customer_id": "C-4098",
+    "customer_email": "miguel.torres@example.com",
+    "created_at": "2026-06-15T20:02:00Z",
+    "channel": "email",
+    "status": "open"
+  },
+  {
+    "id": "T-1043",
+    "subject": "Change email on account",
+    "body": "I switched jobs and want to change the email on my account from the old work one to my personal gmail. How?",
+    "customer_id": "C-2255",
+    "customer_email": "old.work@example.com",
+    "created_at": "2026-06-16T08:10:00Z",
+    "channel": "web",
+    "status": "open"
+  },
+  {
+    "id": "T-1044",
+    "subject": "Order stuck in processing",
+    "body": "My order #49150 has said 'processing' for 5 days. Is it ever going to ship? Getting worried.",
+    "customer_id": "C-6698",
+    "customer_email": "sandra.l@example.com",
+    "created_at": "2026-06-16T08:45:00Z",
+    "channel": "chat",
+    "status": "open"
+  },
+  {
+    "id": "T-1015",
+    "subject": "RE: Item missing from delivery - still not resolved",
+    "body": "Following up, no one got back to me. The jacket from order #48980 is still missing and it's been days. Please send the missing item or refund it.",
+    "customer_id": "C-3302",
+    "customer_email": "harper.q@example.com",
+    "created_at": "2026-06-16T09:15:00Z",
+    "channel": "email",
+    "status": "reopened"
+  },
+  {
+    "id": "T-1045",
+    "subject": "Question about warranty",
+    "body": "Does the backpack come with a warranty? If a zipper breaks in a year, is that covered?",
+    "customer_id": "C-5571",
+    "customer_email": "tomas.g@example.com",
+    "created_at": "2026-06-16T09:50:00Z",
+    "channel": "web",
+    "status": "open"
+  },
+  {
+    "id": "T-1046",
+    "subject": "Promo price not honored",
+    "body": "The site showed $39 but I was charged $49 for order #49160. The banner clearly said 20% off. Please refund the difference.",
+    "customer_id": "C-3319",
+    "customer_email": "bella.r@example.com",
+    "created_at": "2026-06-16T10:25:00Z",
+    "channel": "email",
+    "status": "open"
+  },
+  {
+    "id": "T-1047",
+    "subject": "Cannot add to cart",
+    "body": "The 'add to cart' button does nothing on the running shoes page. I click and nothing happens. Chrome, desktop.",
+    "customer_id": "C-6605",
+    "customer_email": "eric.w@example.com",
+    "created_at": "2026-06-16T11:00:00Z",
+    "channel": "web",
+    "status": "open"
+  },
+  {
+    "id": "T-1048",
+    "subject": "¿Tienen descuentos para estudiantes?",
+    "body": "Hola, soy estudiante universitaria y quería saber si ofrecen algún descuento para estudiantes. Gracias.",
+    "customer_id": "C-4033",
+    "customer_email": "valentina.p@example.com",
+    "created_at": "2026-06-16T11:35:00Z",
+    "channel": "web",
+    "status": "open"
+  },
+  {
+    "id": "T-1049",
+    "subject": "Wrong total charged",
+    "body": "My cart said $84 but my card was charged $102. There were no shipping fees mentioned. What is the extra $18 for? Order #49175.",
+    "customer_id": "C-7729",
+    "customer_email": "nina.d@example.com",
+    "created_at": "2026-06-16T12:10:00Z",
+    "channel": "email",
+    "status": "open"
+  },
+  {
+    "id": "T-1050",
+    "subject": "Thank you",
+    "body": "Just wanted to thank Marco on your support team, he sorted out my delivery issue really fast last week. Great service.",
+    "customer_id": "C-2288",
+    "customer_email": "grateful.one@example.com",
+    "created_at": "2026-06-16T12:45:00Z",
+    "channel": "chat",
+    "status": "open"
+  }
+]
